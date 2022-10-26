@@ -1,5 +1,6 @@
 //PROGRAM TO FIND SUM OF ELEMENTS IN THE UPPER TRIANGLE AND LOWER TRIANGLE OF A MATRIX:
     #include<stdio.h>
+    #include<stdlib.h>
     int main(){
         int n,m,i,j,sum1=0,sum2=0;
         printf("Enter the number of rows:\n");
